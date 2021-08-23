@@ -98,7 +98,7 @@
 			label = "Navigations";
 
 			bindings = <
-	___ ___ ___ ___      ___      ___       ___ ___ ___      ___      ___       ___ ___ ___ ___ ___ 
+	&kp ESC   &kp GRAVE    &kp F1       &kp F2       &kp F3        &kp F4        &kp F5        &kp F6         &kp F7 &kp F8 &kp F9 &kp F10 &kp F11 &kp F12  &kp DEL        &kp DEL
 	___ ___ ___ ___      &kp UP   ___       ___ ___ ___      &kp UP   ___       ___ ___ ___ ___ 
 	___ ___ ___ &kp LEFT &kp DOWN &kp RIGHT ___ ___ &kp LEFT &kp DOWN &kp RIGHT ___ ___ ___ 
 	    ___ ___ ___      ___      ___       ___ ___ ___      ___      ___       ___ ___ ___ ___ 
